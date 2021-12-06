@@ -28,16 +28,19 @@ export const categories = [
         id: 1,
         img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         title: "SHIRT STYLE",
+        cat: "women"
     },
     {
         id: 2,
         img: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1530&q=80",
         title: "LOUNGE WEAR",
+        cat: "coats"
     },
     {
         id: 3,
         img: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=474&q=80",
         title: "LIGHT JACKETS",
+        cat: "jeans"
     },
 ]
 
